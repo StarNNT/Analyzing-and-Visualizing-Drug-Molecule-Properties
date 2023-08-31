@@ -1,0 +1,128 @@
+Molecule: OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O
+Num of atoms: 32
+Molecular weight: 457.43
+TPSA: 202.32
+LogP: -3.11
+HBA: 12
+HBD: 7
+------------------------------
+Molecule: CC(=O)OC1=CC=CC=C1C(=O)O
+Num of atoms: 13
+Molecular weight: 180.16
+TPSA: 63.60
+LogP: 1.31
+HBA: 3
+HBD: 1
+------------------------------
+Molecule: Oc1ccc(Cl)cc1C(=O)Nc2ccc(cc2Cl)N(=O)=O
+Num of atoms: 21
+Molecular weight: 327.12
+TPSA: 92.47
+LogP: 3.86
+HBA: 4
+HBD: 2
+------------------------------
+Molecule: CC12CCC(=O)C=C1CCC3C2CCC4(C)C3CCC4(O)C#C
+Num of atoms: 23
+Molecular weight: 312.45
+TPSA: 37.30
+LogP: 3.88
+HBA: 2
+HBD: 1
+------------------------------
+Molecule: CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+Num of atoms: 14
+Molecular weight: 194.19
+TPSA: 61.82
+LogP: -1.03
+HBA: 6
+HBD: 0
+------------------------------
+Molecule: CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O
+Num of atoms: 23
+Molecular weight: 393.85
+TPSA: 55.84
+LogP: 3.88
+HBA: 6
+HBD: 0
+------------------------------
+Molecule: CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O
+Num of atoms: 16
+Molecular weight: 224.26
+TPSA: 75.27
+LogP: 0.96
+HBA: 3
+HBD: 2
+------------------------------
+Molecule: OCC1OC(CO)(OC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C1O
+Num of atoms: 34
+Molecular weight: 504.44
+TPSA: 268.68
+LogP: -7.57
+HBA: 16
+HBD: 11
+------------------------------
+Molecule: CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1
+Num of atoms: 23
+Molecular weight: 397.52
+TPSA: 64.63
+LogP: 3.77
+HBA: 6
+HBD: 1
+------------------------------
+Molecule: CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC
+Num of atoms: 19
+Molecular weight: 330.36
+TPSA: 71.06
+LogP: 2.12
+HBA: 8
+HBD: 0
+------------------------------
+Molecule: CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO
+Num of atoms: 26
+Molecular weight: 362.47
+TPSA: 94.83
+LogP: 1.78
+HBA: 5
+HBD: 3
+------------------------------
+Molecule: CC2Nc1cc(Cl)c(cc1C(=O)N2c3ccccc3C)S(N)(=O)=O
+Num of atoms: 24
+Molecular weight: 365.84
+TPSA: 92.50
+LogP: 2.71
+HBA: 4
+HBD: 2
+------------------------------
+Molecule: CN(C(=O)COc1nc2ccccc2s1)c3ccccc3
+Num of atoms: 21
+Molecular weight: 298.37
+TPSA: 42.43
+LogP: 3.34
+HBA: 4
+HBD: 0
+------------------------------
+Molecule: CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1
+Num of atoms: 15
+Molecular weight: 249.10
+TPSA: 41.57
+LogP: 3.02
+HBA: 2
+HBD: 1
+------------------------------
+Molecule: CC(C)C(Nc1ccc(cc1Cl)C(F)(F)F)C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2
+Num of atoms: 35
+Molecular weight: 502.92
+TPSA: 71.35
+LogP: 7.40
+HBA: 5
+HBD: 1
+------------------------------
+Molecule: CN2C(=O)CN=C(c1ccccc1)c3cc(ccc23)N(=O)=O
+Num of atoms: 22
+Molecular weight: 295.30
+TPSA: 75.81
+LogP: 2.41
+HBA: 4
+HBD: 0
+------------------------------
