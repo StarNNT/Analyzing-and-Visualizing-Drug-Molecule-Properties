@@ -27,7 +27,7 @@ smiles_list = ['OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O ',
 # Create a dictionary matching drug names and SMILES strings
 drug_dict = dict(zip(drug_names, smiles_list))
 
-# İlaç moleküllerini görselleştirme
+# Visualization of drug molecules
 fig, axes = plt.subplots(4, 4, figsize=(12, 12))
 for ax, (drug_name, smiles) in zip(axes.ravel(), drug_dict.items()):
     mol = Chem.MolFromSmiles(smiles)
